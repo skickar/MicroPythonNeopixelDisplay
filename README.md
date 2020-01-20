@@ -4,9 +4,15 @@ A segment display that shows random numbers
 To make this, cut 7 strips of nexopixels that are 10 pixels each in length  
 Solder wires to each end and connect them  
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/iTQkaMw"><a href="//imgur.com/a/iTQkaMw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Set up in a opaque bin: 
+![alt text](https://i.imgur.com/cGKlke4l.jpg "A bin works")
+
 
 Then, starting from the center left line in a figure 8, lay the pixel segments as in the diagram.  
+
+Diagram: 
+![alt text](https://i.imgur.com/T7llDHX.jpg "My handwriting is great")  
+
 Connect to an ESP8266 running MicroPython to power, ground, and Pin 2  
 Upload the .Py file to play the random number generator  
 
