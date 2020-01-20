@@ -4,7 +4,8 @@ A segment display that shows random numbers
 To make this, cut 7 strips of nexopixels that are 10 pixels each in length  
 Solder wires to each end and connect them  
 
-Set up in a opaque bin: 
+Set up in a opaque bin:   
+
 ![alt text](https://i.imgur.com/cGKlke4l.jpg "A bin works")
 
 
